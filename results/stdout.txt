@@ -1,0 +1,236 @@
+[I 22:53:56.567 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 22:53:56.777 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 22:53:58.388 NotebookApp] jupyter_tensorboard extension loaded.
+[I 22:53:58.412 NotebookApp] JupyterLab beta preview extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 22:53:58.412 NotebookApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 22:53:58.416 NotebookApp] Serving notebooks from local directory: /
+[I 22:53:58.416 NotebookApp] The Jupyter Notebook is running at:
+[I 22:53:58.416 NotebookApp] http://172.17.0.4:8888/
+[I 22:53:58.416 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:54:04.184 NotebookApp] 302 GET / (10.0.40.19) 0.62ms
+[I 22:54:06.181 NotebookApp] 302 GET / (10.0.194.105) 0.52ms
+[I 22:54:12.898 NotebookApp] 302 GET / (10.0.254.176) 0.55ms
+[I 22:54:12.905 NotebookApp] 302 GET / (10.0.254.176) 0.59ms
+[I 22:54:15.669 NotebookApp] 302 GET / (10.0.254.176) 0.57ms
+[I 22:54:17.522 NotebookApp] 302 GET / (10.0.254.176) 0.62ms
+[I 22:54:18.799 NotebookApp] 302 GET / (10.0.254.176) 0.58ms
+[I 22:54:21.647 NotebookApp] 302 GET / (10.0.254.176) 0.59ms
+[I 22:54:22.954 NotebookApp] 302 GET / (10.0.254.176) 0.59ms
+[I 22:54:26.046 NotebookApp] 302 GET / (10.0.254.176) 0.43ms
+[I 22:54:27.939 NotebookApp] 302 GET / (10.0.254.176) 0.60ms
+[I 22:54:30.669 NotebookApp] 302 GET / (10.0.254.176) 0.59ms
+[I 22:54:32.499 NotebookApp] 302 GET / (10.0.254.176) 0.58ms
+[I 22:54:33.915 NotebookApp] 302 GET / (10.0.254.176) 0.58ms
+[I 22:54:36.651 NotebookApp] 302 GET / (10.0.254.176) 0.79ms
+[I 22:54:38.325 NotebookApp] 302 GET / (10.0.40.19) 0.60ms
+[I 22:54:38.436 NotebookApp] 302 GET / (10.0.254.176) 0.65ms
+[I 22:54:40.645 NotebookApp] 302 GET / (10.0.40.19) 0.58ms
+[I 22:54:40.768 NotebookApp] 302 GET / (10.0.254.176) 0.59ms
+[I 22:54:42.266 NotebookApp] 302 GET / (10.0.40.19) 0.65ms
+[I 22:54:42.281 NotebookApp] 302 GET / (10.0.194.105) 0.76ms
+[I 22:54:42.336 NotebookApp] 302 GET / (10.0.40.19) 0.66ms
+[I 22:54:42.492 NotebookApp] 302 GET / (10.0.194.105) 0.60ms
+[I 22:54:43.557 NotebookApp] 302 GET / (10.0.40.19) 0.63ms
+[I 22:57:26.422 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 22:57:26.422 NotebookApp] Notebook mnt/Writeup.ipynb is not trusted
+[I 22:57:29.244 NotebookApp] Kernel started: 9a886ae0-41d6-4094-84d0-4c1b54325b71
+[I 22:57:30.821 NotebookApp] 302 GET /notebooks/mnt/writeup_images/gray.jpg (10.0.194.105) 1.18ms
+[I 22:57:31.140 NotebookApp] 302 GET /notebooks/mnt/writeup_images/masked.jpg (10.0.40.19) 1.11ms
+[I 22:57:31.783 NotebookApp] 302 GET /notebooks/mnt/writeup_images/smooth.jpg (10.0.40.19) 1.20ms
+[I 22:57:31.820 NotebookApp] 302 GET /notebooks/mnt/writeup_images/canny.jpg (10.0.194.105) 1.10ms
+[W 22:57:32.686 NotebookApp] 404 GET /notebooks/mnt/writeup_images/line_edges.jpg (10.0.254.176): No such file or directory: mnt/writeup_images/line_edges.jpg
+[W 22:57:32.693 NotebookApp] 404 GET /notebooks/mnt/writeup_images/line_edges.jpg (10.0.254.176) 8.28ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Writeup.ipynb
+[I 22:57:32.923 NotebookApp] 302 GET /notebooks/mnt/writeup_images/houghed.jpg (10.0.194.105) 1.11ms
+[I 22:57:38.086 NotebookApp] Adapting to protocol v5.1 for kernel 9a886ae0-41d6-4094-84d0-4c1b54325b71
+[W 22:57:53.937 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181016225356 (10.0.40.19) 2.97ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Writeup.ipynb
+[W 23:00:08.091 NotebookApp] WebSocket ping timeout after 117368 ms.
+[I 23:00:13.095 NotebookApp] Starting buffering for 9a886ae0-41d6-4094-84d0-4c1b54325b71:3ddc06f7073848db89ea436d785f1a2f
+[I 23:01:30.250 NotebookApp] Adapting to protocol v5.1 for kernel 9a886ae0-41d6-4094-84d0-4c1b54325b71
+[I 23:01:30.251 NotebookApp] Restoring connection for 9a886ae0-41d6-4094-84d0-4c1b54325b71:3ddc06f7073848db89ea436d785f1a2f
+[I 23:03:34.925 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:04:37.558 NotebookApp] 302 GET /notebooks/mnt/writeup_images/lines_edges.jpg (10.0.40.19) 1.15ms
+[I 23:05:30.371 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:07:33.670 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:08:06.863 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:09:34.256 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[W 23:10:38.540 NotebookApp] 404 GET /notebooks/mnt/writeup_images/line_edges.jpg (10.0.40.19): No such file or directory: mnt/writeup_images/line_edges.jpg
+[W 23:10:38.541 NotebookApp] 404 GET /notebooks/mnt/writeup_images/line_edges.jpg (10.0.40.19) 1.88ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Writeup.ipynb
+[I 23:17:12.525 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:17:12.746 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:17:15.816 NotebookApp] Starting buffering for 9a886ae0-41d6-4094-84d0-4c1b54325b71:3ddc06f7073848db89ea436d785f1a2f
+[I 23:17:15.896 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[W 23:17:47.649 NotebookApp] Notebook mnt/Project.ipynb is not trusted
+[I 23:17:53.174 NotebookApp] 302 GET /notebooks/mnt/writeup_images/canny.jpg (10.0.40.19) 1.10ms
+[I 23:17:53.247 NotebookApp] 302 GET /notebooks/mnt/writeup_images/lines_edges.jpg (10.0.194.105) 1.05ms
+[I 23:17:53.481 NotebookApp] 302 GET /notebooks/mnt/writeup_images/gray.jpg (10.0.254.176) 1.05ms
+[I 23:17:55.701 NotebookApp] 302 GET /notebooks/mnt/writeup_images/masked.jpg (10.0.194.105) 1.06ms
+[I 23:17:55.810 NotebookApp] 302 GET /notebooks/mnt/writeup_images/houghed.jpg (10.0.254.176) 1.05ms
+[I 23:17:56.908 NotebookApp] Adapting to protocol v5.1 for kernel 9a886ae0-41d6-4094-84d0-4c1b54325b71
+[I 23:18:03.084 NotebookApp] Kernel started: 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 23:18:07.664 NotebookApp] Adapting to protocol v5.1 for kernel 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 23:19:56.356 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:21:57.407 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:23:56.836 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:25:56.977 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:27:57.060 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:29:59.483 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:31:57.340 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:33:57.591 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:35:54.535 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:37:56.802 NotebookApp] 302 GET / (10.0.254.176) 0.52ms
+[I 23:37:58.941 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:39:59.874 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:40:06.813 NotebookApp] 302 GET / (10.0.40.19) 0.50ms
+[I 23:41:57.604 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[W 23:43:17.743 NotebookApp] Notebook mnt/P1.ipynb is not trusted
+[I 23:43:20.041 NotebookApp] Kernel started: 1e41e8ef-d056-4136-b7fa-379d7c958211
+[I 23:43:20.246 NotebookApp] 302 GET /notebooks/mnt/examples/line-segments-example.jpg (10.0.254.176) 1.13ms
+[I 23:43:20.302 NotebookApp] 302 GET /notebooks/mnt/examples/laneLines_thirdPass.jpg (10.0.40.19) 1.12ms
+[I 23:43:24.334 NotebookApp] Adapting to protocol v5.1 for kernel 1e41e8ef-d056-4136-b7fa-379d7c958211
+[I 23:43:54.893 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:44:20.712 NotebookApp] Starting buffering for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 23:44:21.080 NotebookApp] Kernel restarted: 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 23:44:26.792 NotebookApp] Adapting to protocol v5.1 for kernel 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 23:44:26.793 NotebookApp] Restoring connection for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 23:44:26.793 NotebookApp] Replaying 5 buffered messages
+[I 23:44:50.261 NotebookApp] Saving file at /mnt/Project.ipynb
+[W 23:44:50.263 NotebookApp] Notebook mnt/Project.ipynb is not trusted
+[I 23:45:24.119 NotebookApp] Saving file at /mnt/P1.ipynb
+[I 23:45:56.054 NotebookApp] Starting buffering for 1e41e8ef-d056-4136-b7fa-379d7c958211:07abea87554c481e96a6c58dc46ff4f1
+[I 23:46:05.216 NotebookApp] 302 GET / (10.0.194.105) 0.52ms
+[I 23:46:08.555 NotebookApp] 302 GET / (10.0.254.176) 0.57ms
+[I 23:46:10.529 NotebookApp] 302 GET / (10.0.40.19) 0.57ms
+[I 23:46:11.732 NotebookApp] 302 GET / (10.0.40.19) 0.56ms
+[I 23:46:13.072 NotebookApp] 302 GET / (10.0.40.19) 0.60ms
+[I 23:46:14.105 NotebookApp] 302 GET / (10.0.40.19) 0.62ms
+[I 23:47:54.883 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:51:53.471 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:53:52.928 NotebookApp] Saving file at /mnt/Project.ipynb
+[I 23:53:54.738 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:55:55.222 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:57:47.353 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 23:59:30.164 NotebookApp] Starting buffering for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 23:59:31.147 NotebookApp] Starting buffering for 9a886ae0-41d6-4094-84d0-4c1b54325b71:701d7e74f5a04a178306f23ceef69496
+[I 00:10:26.285 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 00:17:08.743 NotebookApp] Saving file at /mnt/Writeup.ipynb
+[I 00:17:25.312 NotebookApp] Creating new file in /mnt
+[I 00:18:38.480 NotebookApp] Saving file at /mnt/Project.ipynb
+[I 00:18:48.392 NotebookApp] Saving file at /mnt/Writeup.md
+[I 00:19:03.417 NotebookApp] Kernel shutdown: 9a886ae0-41d6-4094-84d0-4c1b54325b71
+[I 00:20:48.510 NotebookApp] Adapting to protocol v5.1 for kernel 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 00:20:48.511 NotebookApp] Restoring connection for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 00:28:33.868 NotebookApp] Saving file at /mnt/Project.ipynb
+[I 00:31:02.513 NotebookApp] Starting buffering for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 00:31:07.921 NotebookApp] Kernel restarted: 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 00:31:11.888 NotebookApp] Adapting to protocol v5.1 for kernel 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 00:31:11.889 NotebookApp] Restoring connection for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 00:31:11.889 NotebookApp] Replaying 6 buffered messages
+[I 00:32:29.227 NotebookApp] Saving file at /mnt/Project.ipynb
+[I 00:33:04.941 NotebookApp] Starting buffering for 99018083-d291-4d8a-9450-96fe6ef40a7c:41657246c9a544698d37f4d2c9f01c48
+[I 00:33:05.618 NotebookApp] Kernel shutdown: 99018083-d291-4d8a-9450-96fe6ef40a7c
+[I 00:41:07.027 NotebookApp] 302 GET / (10.0.254.176) 0.52ms
+[I 00:41:07.278 NotebookApp] 302 GET / (10.0.40.19) 0.55ms
+[I 00:42:07.569 NotebookApp] 302 GET / (10.0.254.176) 0.57ms
+[I 00:42:08.748 NotebookApp] 302 GET / (10.0.254.176) 0.73ms
+[I 00:42:09.777 NotebookApp] 302 GET / (10.0.254.176) 0.55ms
+[I 00:44:35.154 NotebookApp] Kernel started: 07a663de-aeaf-4138-8fc5-71ace6b4ec3b
+[I 00:44:42.401 NotebookApp] Adapting to protocol v5.1 for kernel 07a663de-aeaf-4138-8fc5-71ace6b4ec3b
+[E 00:44:50.338 NotebookApp] Uncaught exception GET /nbconvert/ipynb/mnt/Project.ipynb?download=true (10.0.40.19)
+    HTTPServerRequest(protocol='http', host='5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com', method='GET', uri='/nbconvert/ipynb/mnt/Project.ipynb?download=true', version='HTTP/1.1', remote_ip='10.0.40.19')
+    Traceback (most recent call last):
+      File "/usr/local/anaconda/lib/python3.6/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/tornado/web.py", line 2949, in wrapper
+        return method(self, *args, **kwargs)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 84, in get
+        exporter = get_exporter(format, config=self.config, log=self.log)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 66, in get_exporter
+        Exporter = get_exporter(format)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/nbconvert/exporters/base.py", line 110, in get_exporter
+        % (name, ', '.join(get_export_names())))
+    ValueError: Unknown exporter "ipynb", did you mean one of: asciidoc, custom, html, latex, markdown, notebook, pdf, python, rst, script, slides?
+[E 00:44:50.345 NotebookApp] {
+      "Host": "5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com",
+      "X-Real-Ip": "10.0.130.129",
+      "X-Forwarded-For": "10.0.130.129",
+      "Connection": "close",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Project.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "__cfduid=d3b97841837b268ba74b2ccaf1ee357e01520983619; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%2217717dfa-8520-4750-908b-b066c3c3ea4a%22; _ga=GA1.2.475770370.1520983620; optimizelyEndUserId=oeu1521050257042r0.4400535601696234; optimizelySegments=%7B%7D; optimizelyBuckets=%7B%7D; intercom-lou-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=1; mp_51f514bdd3bb4a6e9f6b66f3b70ffda2_mixpanel=%7B%22distinct_id%22%3A%20%2259b9ceafb5d47fb826ab5460%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22stage%22%3A%20%22domino-trial%22%2C%22Company%22%3A%20%22Self%22%2C%22Phone%22%3A%20%227817861338%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22%24username%22%3A%20%22jgeorge%22%7D; mp_a8873acdc08507d2ac6f95399536cc32_mixpanel=%7B%22distinct_id%22%3A%20%2216225a9133f2d4-0cedae71b1118a-33607c05-13c680-16225a91340b17%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22__alias%22%3A%20%225aa962f4e4b0f5911765919c%22%2C%22%24username%22%3A%20%22jgeorge%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22Company%22%3A%20%22Domino%20Datalab%22%7D; _xsrf=2|133b231f|47a830d9d495c53095e3f0846948b1c0|1539730462; intercom-session-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=bHlVWnQwWjBQbXczdWwwY0NzbXh2alluQ2UzUUowRFhOL1ZaeW1sUXFLa0QrelpwNmsrUWJHb0hVdWNMNnQ2VS0tcjVDVGVWVWhrYVAyenVoZWsveURVQT09--9db05e7cf2c19046a6dee0f42c5a0cb544fe3a41"
+    }
+[E 00:44:50.345 NotebookApp] 500 GET /nbconvert/ipynb/mnt/Project.ipynb?download=true (10.0.40.19) 75.98ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Project.ipynb
+[I 00:44:52.013 NotebookApp] Starting buffering for 07a663de-aeaf-4138-8fc5-71ace6b4ec3b:4e994d6b788b45e3897e9cb8c109a19c
+[I 00:45:27.556 NotebookApp] 302 GET /notebooks/mnt/writeup_images/gray.jpg (10.0.40.19) 1.55ms
+[I 00:45:27.715 NotebookApp] Kernel started: c3397958-a0f1-4a49-915c-3d18493ca03f
+[I 00:45:28.001 NotebookApp] 302 GET /notebooks/mnt/writeup_images/canny.jpg (10.0.254.176) 1.91ms
+[I 00:45:28.243 NotebookApp] 302 GET /notebooks/mnt/writeup_images/lines_edges.jpg (10.0.40.19) 1.65ms
+[I 00:45:31.886 NotebookApp] Adapting to protocol v5.1 for kernel c3397958-a0f1-4a49-915c-3d18493ca03f
+[I 00:45:34.266 NotebookApp] 302 GET /notebooks/mnt/writeup_images/masked.jpg (10.0.254.176) 1.14ms
+[I 00:45:34.801 NotebookApp] 302 GET /notebooks/mnt/writeup_images/houghed.jpg (10.0.254.176) 1.16ms
+[I 00:45:36.560 NotebookApp] Adapting to protocol v5.1 for kernel 07a663de-aeaf-4138-8fc5-71ace6b4ec3b
+[I 00:45:41.800 NotebookApp] Writing 20703 bytes to /mnt/notebook.tex
+[I 00:45:41.801 NotebookApp] Building PDF
+[E 00:45:41.802 NotebookApp] nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+    Traceback (most recent call last):
+      File "/usr/local/anaconda/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 123, in get
+        resources=resource_dict
+      File "/usr/local/anaconda/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 175, in from_notebook_node
+        rc = self.run_latex(tex_file)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 137, in run_latex
+        self.latex_count, log_error)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 99, in run_command
+        "at {link}.".format(formatter=command_list[0], link=link))
+    OSError: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[W 00:45:41.804 NotebookApp] 500 GET /nbconvert/pdf/mnt/Writeup.ipynb?download=true (10.0.40.19): nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[E 00:45:41.807 NotebookApp] {
+      "Host": "5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com",
+      "X-Real-Ip": "10.0.86.62",
+      "X-Forwarded-For": "10.0.86.62",
+      "Connection": "close",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Writeup.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "__cfduid=d3b97841837b268ba74b2ccaf1ee357e01520983619; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%2217717dfa-8520-4750-908b-b066c3c3ea4a%22; _ga=GA1.2.475770370.1520983620; optimizelyEndUserId=oeu1521050257042r0.4400535601696234; optimizelySegments=%7B%7D; optimizelyBuckets=%7B%7D; intercom-lou-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=1; mp_51f514bdd3bb4a6e9f6b66f3b70ffda2_mixpanel=%7B%22distinct_id%22%3A%20%2259b9ceafb5d47fb826ab5460%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22stage%22%3A%20%22domino-trial%22%2C%22Company%22%3A%20%22Self%22%2C%22Phone%22%3A%20%227817861338%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22%24username%22%3A%20%22jgeorge%22%7D; mp_a8873acdc08507d2ac6f95399536cc32_mixpanel=%7B%22distinct_id%22%3A%20%2216225a9133f2d4-0cedae71b1118a-33607c05-13c680-16225a91340b17%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22__alias%22%3A%20%225aa962f4e4b0f5911765919c%22%2C%22%24username%22%3A%20%22jgeorge%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22Company%22%3A%20%22Domino%20Datalab%22%7D; _xsrf=2|133b231f|47a830d9d495c53095e3f0846948b1c0|1539730462; intercom-session-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=bHlVWnQwWjBQbXczdWwwY0NzbXh2alluQ2UzUUowRFhOL1ZaeW1sUXFLa0QrelpwNmsrUWJHb0hVdWNMNnQ2VS0tcjVDVGVWVWhrYVAyenVoZWsveURVQT09--9db05e7cf2c19046a6dee0f42c5a0cb544fe3a41"
+    }
+[E 00:45:41.807 NotebookApp] 500 GET /nbconvert/pdf/mnt/Writeup.ipynb?download=true (10.0.40.19) 761.58ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Writeup.ipynb
+[I 00:45:42.871 NotebookApp] Starting buffering for c3397958-a0f1-4a49-915c-3d18493ca03f:6eaa3363768243878d58c65edf84fada
+[E 00:46:16.173 NotebookApp] Uncaught exception GET /nbconvert/ipynb/mnt/Project.ipynb?download=true (10.0.40.19)
+    HTTPServerRequest(protocol='http', host='5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com', method='GET', uri='/nbconvert/ipynb/mnt/Project.ipynb?download=true', version='HTTP/1.1', remote_ip='10.0.40.19')
+    Traceback (most recent call last):
+      File "/usr/local/anaconda/lib/python3.6/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/tornado/web.py", line 2949, in wrapper
+        return method(self, *args, **kwargs)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 84, in get
+        exporter = get_exporter(format, config=self.config, log=self.log)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 66, in get_exporter
+        Exporter = get_exporter(format)
+      File "/usr/local/anaconda/lib/python3.6/site-packages/nbconvert/exporters/base.py", line 110, in get_exporter
+        % (name, ', '.join(get_export_names())))
+    ValueError: Unknown exporter "ipynb", did you mean one of: asciidoc, custom, html, latex, markdown, notebook, pdf, python, rst, script, slides?
+[E 00:46:16.175 NotebookApp] {
+      "Host": "5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com",
+      "X-Real-Ip": "10.0.86.62",
+      "X-Forwarded-For": "10.0.86.62",
+      "Connection": "close",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Project.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "__cfduid=d3b97841837b268ba74b2ccaf1ee357e01520983619; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%2217717dfa-8520-4750-908b-b066c3c3ea4a%22; _ga=GA1.2.475770370.1520983620; optimizelyEndUserId=oeu1521050257042r0.4400535601696234; optimizelySegments=%7B%7D; optimizelyBuckets=%7B%7D; intercom-lou-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=1; mp_51f514bdd3bb4a6e9f6b66f3b70ffda2_mixpanel=%7B%22distinct_id%22%3A%20%2259b9ceafb5d47fb826ab5460%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22stage%22%3A%20%22domino-trial%22%2C%22Company%22%3A%20%22Self%22%2C%22Phone%22%3A%20%227817861338%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22%24username%22%3A%20%22jgeorge%22%7D; mp_a8873acdc08507d2ac6f95399536cc32_mixpanel=%7B%22distinct_id%22%3A%20%2216225a9133f2d4-0cedae71b1118a-33607c05-13c680-16225a91340b17%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22__alias%22%3A%20%225aa962f4e4b0f5911765919c%22%2C%22%24username%22%3A%20%22jgeorge%22%2C%22%24email%22%3A%20%22jithin.george%40dominodatalab.com%22%2C%22Company%22%3A%20%22Domino%20Datalab%22%7D; _xsrf=2|133b231f|47a830d9d495c53095e3f0846948b1c0|1539730462; intercom-session-ca1ff9b9b3e6ec502dd74ef8356046ed57cefec8=bHlVWnQwWjBQbXczdWwwY0NzbXh2alluQ2UzUUowRFhOL1ZaeW1sUXFLa0QrelpwNmsrUWJHb0hVdWNMNnQ2VS0tcjVDVGVWVWhrYVAyenVoZWsveURVQT09--9db05e7cf2c19046a6dee0f42c5a0cb544fe3a41"
+    }
+[E 00:46:16.175 NotebookApp] 500 GET /nbconvert/ipynb/mnt/Project.ipynb?download=true (10.0.40.19) 71.71ms referer=https://5bc66bfd46e0fb0008d672d0-workspace.app.dominodatalab.com/notebooks/mnt/Project.ipynb
+[I 00:46:17.255 NotebookApp] Starting buffering for 07a663de-aeaf-4138-8fc5-71ace6b4ec3b:089f30a4889e4496b7f327b2426fe080
+[I 00:47:01.067 NotebookApp] Kernel shutdown: 1e41e8ef-d056-4136-b7fa-379d7c958211
+[I 00:47:01.891 NotebookApp] Kernel shutdown: 07a663de-aeaf-4138-8fc5-71ace6b4ec3b
+[I 00:47:03.316 NotebookApp] Kernel shutdown: c3397958-a0f1-4a49-915c-3d18493ca03f
+[I 00:48:40.834 NotebookApp] 302 GET / (10.0.194.105) 0.53ms
