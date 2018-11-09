@@ -47,7 +47,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 2. ***Weeding out outliers***: Next I separated the list of slopes by which lane they were from(left/right). The side was chosen by the sign of the slope; a negative slope represented a line segment on the left lane while a positive slope represented a line segment on the right line. From these lists, outliers were removed. For the purpose of this exercise, any point beyond 1$\sigma$ from the mean of slopes (positive or negative) was eliminated. The corresponding intercept points were also removed
 
-3. ***Finding the intersection points***: Now that we have the average slope and intercept for the lines on the left and right lanes, the next step will be to determine the endpoints for each line. This was done by determining the point of intersection of both lines with the edge of the image ($y=540$) and the top edge of our region of interest: the line between $(420,330)$ \& $(525,330)$.
+3. ***Finding the intersection points***: Now that we have the average slope and intercept for the lines on the left and right lanes, the next step will be to determine the endpoints for each line. This was done by determining the point of intersection of both lines with the edge of the image ($y=540$) and the top edge of our region of interest: the line between $(440,330)$ \& $(525,330)$.
 
 4. ***Drawing the lines***: Finally, now that we have all the required points, the two lines were drawn on the image using cv2.line
 
